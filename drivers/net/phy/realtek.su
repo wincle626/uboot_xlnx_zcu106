@@ -1,0 +1,8 @@
+realtek.c:60:12:rtl8211b_probe	0	static
+realtek.c:259:12:rtl8211x_startup	64	static
+realtek.c:282:12:rtl8211f_startup	64	static
+realtek.c:79:12:rtl8211x_config	32	static
+realtek.c:123:12:rtl8211f_config	32	static
+realtek.c:271:12:rtl8211e_startup	32	static
+realtek.c:69:12:rtl8211e_probe	0	static
+realtek.c:341:5:phy_realtek_init	16	static

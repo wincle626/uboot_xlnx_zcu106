@@ -1,0 +1,2 @@
+tap_delays.c:35:6:zynqmp_dll_reset	32	static
+tap_delays.c:54:6:arasan_zynqmp_set_tapdelay	32	static

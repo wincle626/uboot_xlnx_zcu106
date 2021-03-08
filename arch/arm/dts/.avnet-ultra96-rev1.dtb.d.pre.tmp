@@ -1,0 +1,14 @@
+.avnet-ultra96-rev1.dtb.pre.o: \
+ arch/arm/dts/.avnet-ultra96-rev1.dtb.pre.tmp include/linux/kconfig.h \
+ include/generated/autoconf.h arch/arm/dts/zynqmp-zcu100-revC.dts \
+ arch/arm/dts/zynqmp.dtsi \
+ arch/arm/dts/include/dt-bindings/power/xlnx-zynqmp-power.h \
+ arch/arm/dts/include/dt-bindings/reset/xlnx-zynqmp-resets.h \
+ arch/arm/dts/zynqmp-clk-ccf.dtsi \
+ arch/arm/dts/include/dt-bindings/clock/xlnx-zynqmp-clk.h \
+ arch/arm/dts/include/dt-bindings/input/input.h \
+ arch/arm/dts/include/dt-bindings/input/linux-event-codes.h \
+ arch/arm/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm/dts/include/dt-bindings/gpio/gpio.h \
+ arch/arm/dts/include/dt-bindings/pinctrl/pinctrl-zynqmp.h \
+ arch/arm/dts/include/dt-bindings/phy/phy.h

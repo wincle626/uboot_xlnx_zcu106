@@ -1,0 +1,3 @@
+util.c:23:5:list_count_items	0	static
+util.c:34:6:dm_fdt_pre_reloc	32	static
+util.c:58:6:dm_ofnode_pre_reloc	32	static

@@ -1,0 +1,6 @@
+clk_zynqmp.c:648:12:zynqmp_get_freq_by_name	80	static
+clk_zynqmp.c:667:12:zynqmp_clk_probe	32	static
+clk_zynqmp.c:336:14:zynqmp_clk_get_pll_rate	48	static
+clk_zynqmp.c:594:14:zynqmp_clk_set_rate	64	static
+clk_zynqmp.c:568:14:zynqmp_clk_get_rate	64	static
+clk_zynqmp.c:610:5:soc_clk_dump	112	static

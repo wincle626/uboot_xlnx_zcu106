@@ -1,0 +1,8 @@
+dwc3-generic.c:78:12:dwc3_generic_peripheral_ofdata_to_platdata	48	static
+dwc3-generic.c:66:12:dwc3_generic_peripheral_remove	16	static
+dwc3-generic.c:43:12:dwc3_generic_peripheral_probe	32	static
+dwc3-generic.c:125:6:dwc3_ti_select_dr_mode	48	static
+dwc3-generic.c:335:12:dwc3_glue_remove	32	static
+dwc3-generic.c:300:12:dwc3_glue_probe	80	static
+dwc3-generic.c:209:12:dwc3_glue_bind	80	static
+dwc3-generic.c:33:5:dm_usb_gadget_handle_interrupts	16	static

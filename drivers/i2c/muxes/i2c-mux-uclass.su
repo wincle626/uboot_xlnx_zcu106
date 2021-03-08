@@ -1,0 +1,8 @@
+i2c-mux-uclass.c:35:12:i2c_mux_child_post_bind	32	static
+i2c-mux-uclass.c:98:12:i2c_mux_post_probe	32	static
+i2c-mux-uclass.c:49:12:i2c_mux_post_bind	96	static
+i2c-mux-uclass.c:125:5:i2c_mux_select	32	static
+i2c-mux-uclass.c:137:5:i2c_mux_deselect	32	static
+i2c-mux-uclass.c:149:12:i2c_mux_bus_set_bus_speed	48	static
+i2c-mux-uclass.c:164:12:i2c_mux_bus_probe	64	static
+i2c-mux-uclass.c:184:12:i2c_mux_bus_xfer	64	static

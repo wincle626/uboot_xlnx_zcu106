@@ -1,0 +1,14 @@
+serial_zynq.c:47:13:_uart_zynq_serial_setbrg	0	static
+serial_zynq.c:96:12:_uart_zynq_serial_putc	0	static
+serial_zynq.c:169:12:zynq_serial_pending	32	static
+serial_zynq.c:162:12:zynq_serial_putc	32	static
+serial_zynq.c:151:12:zynq_serial_getc	16	static
+serial_zynq.c:138:12:zynq_serial_probe	16	static
+serial_zynq.c:106:12:zynq_serial_setbrg	80	static
+serial_zynq.c:180:12:zynq_serial_ofdata_to_platdata	32	static
+serial_zynq.c:233:1:printch	16	static
+serial_zynq.c:233:1:printascii	16	static
+serial_zynq.c:233:1:printhex2	16	static
+serial_zynq.c:233:1:printhex4	16	static
+serial_zynq.c:233:1:printhex8	16	static
+serial_zynq.c:233:1:debug_uart_init	16	static

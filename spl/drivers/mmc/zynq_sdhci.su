@@ -1,0 +1,8 @@
+zynq_sdhci.c:331:13:arasan_sdhci_set_control_reg	0	static
+zynq_sdhci.c:224:13:arasan_sdhci_set_tapdelay	32	static
+zynq_sdhci.c:379:12:arasan_sdhci_probe	112	static
+zynq_sdhci.c:464:12:arasan_sdhci_bind	32	static
+zynq_sdhci.c:249:13:arasan_dt_read_tap_delay.isra.0	0	static
+zynq_sdhci.c:436:12:arasan_sdhci_ofdata_to_platdata	224	static
+zynq_sdhci.c:78:13:arasan_zynqmp_dll_reset.isra.1	32	static
+zynq_sdhci.c:107:12:arasan_sdhci_execute_tuning	144	static

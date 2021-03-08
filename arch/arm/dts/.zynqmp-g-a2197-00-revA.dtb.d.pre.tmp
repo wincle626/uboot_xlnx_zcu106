@@ -1,0 +1,8 @@
+.zynqmp-g-a2197-00-revA.dtb.pre.o: \
+ arch/arm/dts/.zynqmp-g-a2197-00-revA.dtb.pre.tmp include/linux/kconfig.h \
+ include/generated/autoconf.h arch/arm/dts/zynqmp.dtsi \
+ arch/arm/dts/include/dt-bindings/power/xlnx-zynqmp-power.h \
+ arch/arm/dts/include/dt-bindings/reset/xlnx-zynqmp-resets.h \
+ arch/arm/dts/zynqmp-clk-ccf.dtsi \
+ arch/arm/dts/include/dt-bindings/clock/xlnx-zynqmp-clk.h \
+ arch/arm/dts/include/dt-bindings/gpio/gpio.h

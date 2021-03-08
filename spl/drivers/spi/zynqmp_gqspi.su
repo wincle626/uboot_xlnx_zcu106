@@ -1,0 +1,14 @@
+zynqmp_gqspi.c:499:12:zynqmp_qspi_set_mode	32	static
+zynqmp_gqspi.c:901:12:zynqmp_qspi_release_bus	16	static
+zynqmp_gqspi.c:890:12:zynqmp_qspi_claim_bus	16	static
+zynqmp_gqspi.c:429:12:zynqmp_qspi_child_pre_probe	32	static
+zynqmp_gqspi.c:522:12:zynqmp_qspi_fill_tx_fifo	80	static
+zynqmp_gqspi.c:197:12:zynqmp_qspi_ofdata_to_platdata	32	static
+zynqmp_gqspi.c:440:12:zynqmp_qspi_probe	80	static
+zynqmp_gqspi.c:256:12:zynqmp_qspi_bus_select	0	static
+zynqmp_gqspi.c:629:12:zynqmp_qspi_calc_exp.isra.1	0	static
+zynqmp_gqspi.c:287:13:zynqmp_qspi_fill_gen_fifo.isra.3	48	static
+zynqmp_gqspi.c:753:12:zynqmp_qspi_start_dma	80	static
+zynqmp_gqspi.c:912:5:zynqmp_qspi_xfer	112	dynamic
+zynqmp_gqspi.c:339:6:zynqmp_qspi_set_tapdelay	48	static
+zynqmp_gqspi.c:391:12:zynqmp_qspi_set_speed	48	static

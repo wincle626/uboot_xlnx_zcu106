@@ -1,0 +1,15 @@
+clk-uclass.c:305:5:clk_request	0	static
+clk-uclass.c:57:12:clk_get_by_indexed_prop.isra.1	128	static
+clk-uclass.c:101:5:clk_get_by_index	0	static
+clk-uclass.c:264:5:clk_get_by_name	32	static
+clk-uclass.c:319:5:clk_free	0	static
+clk-uclass.c:331:7:clk_get_rate	0	static
+clk-uclass.c:343:7:clk_set_rate	0	static
+clk-uclass.c:355:5:clk_set_parent	0	static
+clk-uclass.c:242:5:clk_set_defaults	112	static
+clk-uclass.c:367:5:clk_enable	0	static
+clk-uclass.c:379:5:clk_enable_bulk	48	static
+clk-uclass.c:392:5:clk_disable	0	static
+clk-uclass.c:280:5:clk_release_all	48	static
+clk-uclass.c:106:5:clk_get_bulk	64	static
+clk-uclass.c:404:5:clk_disable_bulk	48	static

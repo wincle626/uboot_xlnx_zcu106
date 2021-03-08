@@ -1,0 +1,4 @@
+.zynqmp-mini-qspi-parallel.dtb.pre.o: \
+ arch/arm/dts/.zynqmp-mini-qspi-parallel.dtb.pre.tmp \
+ include/linux/kconfig.h include/generated/autoconf.h \
+ arch/arm/dts/zynqmp-mini-qspi.dts

@@ -1,0 +1,4 @@
+led-uclass.c:15:5:led_get_by_label	64	static
+led-uclass.c:35:5:led_set_state	0	static
+led-uclass.c:45:18:led_get_state	0	static
+led-uclass.c:67:5:led_default_state	64	static

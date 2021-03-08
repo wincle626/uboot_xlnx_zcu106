@@ -1,0 +1,1 @@
+cmd_spl/drivers/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o spl/drivers/built-in.o spl/drivers/clk/built-in.o spl/drivers/core/built-in.o spl/drivers/misc/built-in.o spl/drivers/sysreset/built-in.o spl/drivers/firmware/built-in.o spl/drivers/mmc/built-in.o spl/drivers/serial/built-in.o spl/drivers/mtd/spi/built-in.o spl/drivers/spi/built-in.o spl/drivers/block/built-in.o 

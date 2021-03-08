@@ -1,0 +1,4 @@
+ulpi-viewport.c:54:12:ulpi_wakeup	32	static
+ulpi-viewport.c:75:12:ulpi_request.part.1	32	static
+ulpi-viewport.c:92:5:ulpi_write	48	static
+ulpi-viewport.c:101:5:ulpi_read	48	static

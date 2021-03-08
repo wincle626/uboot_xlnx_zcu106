@@ -1,0 +1,2 @@
+.zynqmp-mini-nand.dtb.pre.o: arch/arm/dts/.zynqmp-mini-nand.dtb.pre.tmp \
+ include/linux/kconfig.h include/generated/autoconf.h

@@ -1,0 +1,2 @@
+cpu.c:27:6:sdelay	0	static
+cpu.c:33:5:cleanup_before_linux	16	static

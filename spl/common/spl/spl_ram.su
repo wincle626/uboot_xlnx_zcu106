@@ -1,0 +1,2 @@
+spl_ram.c:22:14:spl_ram_load_read	32	static
+spl_ram.c:31:12:spl_ram_load_image	80	static

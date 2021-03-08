@@ -1,0 +1,3 @@
+zynqmp-p-a2197-00-revA-x-prc-05-revA.o: \
+ arch/arm/dts/zynqmp-p-a2197-00-revA-x-prc-05-revA.dts \
+ include/linux/kconfig.h include/generated/autoconf.h

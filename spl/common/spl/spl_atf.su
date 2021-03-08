@@ -1,0 +1,2 @@
+spl_atf.c:131:11:spl_fit_images_get_entry	32	static
+spl_atf.c:143:6:spl_invoke_atf	80	static

@@ -1,0 +1,4 @@
+i2c-cdns.c:209:12:cdns_i2c_set_bus_speed	32	static
+i2c-cdns.c:460:12:cdns_i2c_ofdata_to_platdata	80	static
+i2c-cdns.c:141:12:cdns_i2c_wait.constprop	48	static
+i2c-cdns.c:398:12:cdns_i2c_xfer	112	static

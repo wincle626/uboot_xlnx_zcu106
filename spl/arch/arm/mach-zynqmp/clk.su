@@ -1,0 +1,2 @@
+clk.c:14:15:zynqmp_get_system_timer_freq	16	static
+clk.c:35:5:set_cpu_clk_info	32	static

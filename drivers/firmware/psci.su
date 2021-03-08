@@ -1,0 +1,6 @@
+psci.c:64:12:psci_probe	32	static
+psci.c:47:12:psci_bind	32	static
+psci.c:26:29:invoke_psci_fn	64	static
+psci.c:107:27:efi_reset_system	16	static
+psci.c:101:14:efi_reset_system_init	32	static
+psci.c:125:6:reset_misc	32	static

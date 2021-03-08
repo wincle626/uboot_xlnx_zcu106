@@ -1,0 +1,10 @@
+xhci-ring.c:358:13:giveback_first_trb	64	static
+xhci-ring.c:516:13:record_transfer_result	16	static
+xhci-ring.c:180:33:queue_trb	80	static
+xhci-ring.c:209:12:prepare_ring	48	static
+xhci-ring.c:271:6:xhci_queue_command	80	static
+xhci-ring.c:392:6:xhci_acknowledge_event	0	static
+xhci-ring.c:434:17:xhci_wait_for_event	64	static
+xhci-ring.c:484:13:abort_td	48	static
+xhci-ring.c:554:5:xhci_bulk_tx	160	static
+xhci-ring.c:746:5:xhci_ctrl_tx	128	static

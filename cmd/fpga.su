@@ -1,0 +1,10 @@
+fpga.c:385:12:do_fpga_wrapper	48	static
+fpga.c:16:13:do_fpga_get_device	32	static
+fpga.c:141:12:do_fpga_info	16	static
+fpga.c:33:12:do_fpga_check_params.isra.1	48	static
+fpga.c:66:5:do_fpga_loads	96	static
+fpga.c:212:12:do_fpga_loadbp	48	static
+fpga.c:179:12:do_fpga_loadb	48	static
+fpga.c:195:12:do_fpga_loadp	48	static
+fpga.c:164:12:do_fpga_load	48	static
+fpga.c:149:12:do_fpga_dump	48	static

@@ -1,0 +1,5 @@
+misc-uclass.c:17:5:misc_read	0	static
+misc-uclass.c:27:5:misc_write	0	static
+misc-uclass.c:37:5:misc_ioctl	0	static
+misc-uclass.c:47:5:misc_call	0	static
+misc-uclass.c:58:5:misc_set_enabled	0	static

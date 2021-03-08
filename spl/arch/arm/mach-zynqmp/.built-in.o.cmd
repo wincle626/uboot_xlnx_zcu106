@@ -1,0 +1,1 @@
+cmd_spl/arch/arm/mach-zynqmp/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o spl/arch/arm/mach-zynqmp/built-in.o spl/arch/arm/mach-zynqmp/clk.o spl/arch/arm/mach-zynqmp/cpu.o spl/arch/arm/mach-zynqmp/mp.o spl/arch/arm/mach-zynqmp/spl.o spl/arch/arm/mach-zynqmp/handoff.o spl/arch/arm/mach-zynqmp/psu_spl_init.o 

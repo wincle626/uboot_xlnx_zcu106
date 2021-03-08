@@ -1,0 +1,6 @@
+xhci-dwc3.c:145:12:xhci_dwc3_remove	32	static
+xhci-dwc3.c:27:6:dwc3_set_mode	0	static
+xhci-dwc3.c:51:6:dwc3_core_soft_reset	32	static
+xhci-dwc3.c:65:5:dwc3_core_init	32	static
+xhci-dwc3.c:114:12:xhci_dwc3_probe	48	static
+xhci-dwc3.c:107:6:dwc3_set_fladj	0	static

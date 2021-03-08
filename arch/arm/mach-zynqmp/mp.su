@@ -1,0 +1,12 @@
+mp.c:75:13:set_r5_tcm_mode	0	static
+mp.c:107:13:release_r5_reset	0	static
+mp.c:166:13:set_r5_start	0	static
+mp.c:121:13:enable_clock_r5	0	static
+mp.c:54:13:set_r5_halt_mode	0	static
+mp.c:185:13:write_tcm_boot_trampoline	0	static
+mp.c:40:5:is_core_valid	0	static
+mp.c:48:5:cpu_reset	16	static
+mp.c:134:5:cpu_disable	0	static
+mp.c:147:5:cpu_status	16	static
+mp.c:208:6:initialize_tcm	16	static
+mp.c:223:5:cpu_release	48	static

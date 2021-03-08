@@ -1,0 +1,1 @@
+cmd_drivers/clk/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o drivers/clk/built-in.o drivers/clk/clk-uclass.o drivers/clk/clk_fixed_rate.o drivers/clk/imx/built-in.o drivers/clk/tegra/built-in.o drivers/clk/clk_zynqmp.o 

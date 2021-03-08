@@ -1,0 +1,7 @@
+psu_spl_init.c:13:20:mask_pollonvalue	0	static
+psu_spl_init.c:25:12:mask_poll	0	static
+psu_spl_init.c:38:12:mask_read	0	static
+psu_spl_init.c:45:13:mask_delay	0	static
+psu_spl_init.c:50:13:psu_mask_write	0	static
+psu_spl_init.c:61:13:prog_reg	0	static
+psu_spl_init.c:72:12:psu_init	0	static

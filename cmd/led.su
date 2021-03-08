@@ -1,0 +1,3 @@
+led.c:36:12:show_led_state	32	static
+led.c:24:18:get_led_cmd	48	static
+led.c:74:5:do_led	64	static

@@ -1,0 +1,8 @@
+cmds.c:354:12:do_zynqmp	48	static
+cmds.c:179:12:do_zynqmp_tcm_init	32	static
+cmds.c:117:12:do_zynqmp_aes	208	static
+cmds.c:97:12:do_zynqmp_mmio_write	48	static
+cmds.c:76:12:do_zynqmp_mmio_read	48	static
+cmds.c:24:12:do_zynqmp_verify_secure	96	static
+cmds.c:267:12:do_zynqmp_sha3	80	static
+cmds.c:201:12:do_zynqmp_rsa	96	static

@@ -1,0 +1,10 @@
+zynqmp.c:192:5:chip_id	288	static
+zynqmp.c:321:5:board_early_init_f	0	static
+zynqmp.c:349:5:board_init	16	static
+zynqmp.c:409:5:board_early_init_r	16	static
+zynqmp.c:434:15:do_go_exec	32	static
+zynqmp.c:452:5:dram_init_banksize	32	static
+zynqmp.c:465:5:dram_init	16	static
+zynqmp.c:494:6:reset_cpu	0	static
+zynqmp.c:574:5:board_late_init	96	static
+zynqmp.c:716:5:checkboard	16	static

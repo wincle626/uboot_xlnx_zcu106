@@ -1,0 +1,4 @@
+xil_io.h:12:6:Xil_Out32	0	static
+xil_io.h:17:5:Xil_In32	0	static
+xil_io.h:22:6:usleep	0	static
+psu_init_gpl.c:783:5:psu_init	64	static

@@ -1,0 +1,4 @@
+xhci-zynqmp.c:121:12:xhci_usb_ofdata_to_platdata	32	static
+xhci-zynqmp.c:116:12:xhci_usb_remove	0	static
+xhci-zynqmp.c:94:12:xhci_usb_probe	48	static
+xhci-zynqmp.c:84:6:xhci_hcd_stop	0	static

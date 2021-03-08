@@ -1,0 +1,8 @@
+cpu.c:71:6:mem_map_fill	0	static
+cpu.c:102:5:get_page_table_size	0	static
+cpu.c:108:6:tcm_init	32	static
+cpu.c:138:14:zynqmp_get_silicon_version	32	static
+cpu.c:156:20:invoke_smc	288	static
+cpu.c:182:30:zynqmp_pmufw_version	64	static
+cpu.c:230:5:zynqmp_mmio_write	0	static
+cpu.c:243:5:zynqmp_mmio_read	0	static

@@ -1,0 +1,17 @@
+xhci-mem.c:214:13:xhci_link_segments	0	static
+xhci-mem.c:78:13:xhci_ring_free	48	static
+xhci-mem.c:34:6:xhci_flush_cache	16	static
+xhci-mem.c:189:14:xhci_malloc	32	static
+xhci-mem.c:273:29:xhci_segment_alloc	32	static
+xhci-mem.c:416:4:xhci_alloc_container_ctx.isra.5	48	static
+xhci-mem.c:49:6:xhci_inval_cache	16	static
+xhci-mem.c:172:6:xhci_cleanup	64	static
+xhci-mem.c:302:19:xhci_ring_alloc	48	static
+xhci-mem.c:442:5:xhci_alloc_virt_device	64	static
+xhci-mem.c:502:5:xhci_mem_init	80	static
+xhci-mem.c:612:4:xhci_get_input_control_ctx	16	static
+xhci-mem.c:625:23:xhci_get_slot_ctx	0	static
+xhci-mem.c:643:21:xhci_get_ep_ctx	0	static
+xhci-mem.c:668:6:xhci_endpoint_copy	16	static
+xhci-mem.c:697:6:xhci_slot_copy	16	static
+xhci-mem.c:718:6:xhci_setup_addressable_virt_dev	96	static

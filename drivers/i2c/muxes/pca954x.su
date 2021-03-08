@@ -1,0 +1,5 @@
+pca954x.c:62:12:pca954x_deselect	48	static
+pca954x.c:71:12:pca954x_select	64	static
+pca954x.c:99:12:pca954x_ofdata_to_platdata	48	static
+pca954x.c:143:12:pca954x_remove	32	static
+pca954x.c:122:12:pca954x_probe	48	static

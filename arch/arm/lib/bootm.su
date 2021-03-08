@@ -1,0 +1,10 @@
+bootm.c:225:13:boot_prep_linux	32	static
+bootm.c:47:6:arch_lmb_reserve	0	static
+bootm.c:78:13:board_quiesce_devices	0	static
+bootm.c:214:13:setup_board_tags	0	static
+bootm.c:272:13:armv7_boot_nonsec_default	0	static
+bootm.c:298:13:update_os_arch_secondary_cores	0	static
+bootm.c:320:13:boot_jump_linux	32	static
+bootm.c:410:5:do_bootm_linux	48	static
+bootm.c:433:6:boot_prep_vxworks	32	static
+bootm.c:448:6:boot_jump_vxworks	0	static

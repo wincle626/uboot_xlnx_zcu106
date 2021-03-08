@@ -1,0 +1,2 @@
+helloworld.c:30:12:hw_memcmp	48	static
+helloworld.c:51:21:efi_main	96	static

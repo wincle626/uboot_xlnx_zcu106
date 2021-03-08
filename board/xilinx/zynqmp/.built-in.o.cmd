@@ -1,0 +1,1 @@
+cmd_board/xilinx/zynqmp/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o board/xilinx/zynqmp/built-in.o board/xilinx/zynqmp/zynqmp.o board/xilinx/zynqmp/../common/board.o board/xilinx/zynqmp/tap_delays.o board/xilinx/zynqmp/cmds.o 

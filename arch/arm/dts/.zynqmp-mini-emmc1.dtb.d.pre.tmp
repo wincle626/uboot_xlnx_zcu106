@@ -1,0 +1,2 @@
+.zynqmp-mini-emmc1.dtb.pre.o: arch/arm/dts/.zynqmp-mini-emmc1.dtb.pre.tmp \
+ include/linux/kconfig.h include/generated/autoconf.h

@@ -1,0 +1,16 @@
+mmc.c:898:12:do_mmcops	64	static
+mmc.c:95:20:init_mmc_device	48	static
+mmc.c:437:12:do_mmc_rescan	16	static
+mmc.c:778:12:do_mmc_rst_func	32	static
+mmc.c:694:12:do_mmc_boot_resize	48	static
+mmc.c:668:12:do_mmc_bootbus	48	static
+mmc.c:584:12:do_mmc_hwpartition	176	static
+mmc.c:508:12:do_mmc_list	16	static
+mmc.c:467:12:do_mmc_dev	48	static
+mmc.c:407:12:do_mmc_erase	48	static
+mmc.c:377:12:do_mmc_write	64	static
+mmc.c:284:12:do_mmc_read	64	static
+mmc.c:110:12:do_mmcinfo	80	static
+mmc.c:747:12:do_mmc_partconf	48	static
+mmc.c:813:12:do_mmc_setdsr	48	static
+mmc.c:448:12:do_mmc_part	32	static

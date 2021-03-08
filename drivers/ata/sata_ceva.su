@@ -1,0 +1,3 @@
+sata_ceva.c:197:12:sata_ceva_ofdata_to_platdata	32	static
+sata_ceva.c:177:12:sata_ceva_probe	32	static
+sata_ceva.c:170:12:sata_ceva_bind	32	static

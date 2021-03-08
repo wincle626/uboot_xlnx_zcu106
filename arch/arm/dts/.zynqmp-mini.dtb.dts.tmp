@@ -1,0 +1,43 @@
+# 1 "arch/arm/dts/.zynqmp-mini.dtb.pre.tmp"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "././include/linux/kconfig.h" 1
+
+
+
+# 1 "include/generated/autoconf.h" 1
+# 5 "././include/linux/kconfig.h" 2
+# 1 "<command-line>" 2
+# 1 "arch/arm/dts/.zynqmp-mini.dtb.pre.tmp"
+# 10 "arch/arm/dts/.zynqmp-mini.dtb.pre.tmp"
+/dts-v1/;
+
+/ {
+ model = "ZynqMP MINI";
+ compatible = "xlnx,zynqmp";
+ #address-cells = <2>;
+ #size-cells = <2>;
+
+ aliases {
+  serial0 = &dcc;
+ };
+
+ chosen {
+  stdout-path = "serial0:115200n8";
+ };
+
+ memory@0 {
+  device_type = "memory";
+  reg = <0x0 0xfffc0000 0x0 0x40000>, <0x0 0x0 0x0 0x80000000>;
+ };
+
+ dcc: dcc {
+  compatible = "arm,dcc";
+  status = "disabled";
+  u-boot,dm-pre-reloc;
+ };
+};
+
+&dcc {
+ status = "okay";
+};

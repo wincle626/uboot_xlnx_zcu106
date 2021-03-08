@@ -1,0 +1,4 @@
+fixed.c:48:5:fixedphy_startup	0	static
+fixed.c:61:5:fixedphy_shutdown	0	static
+fixed.c:16:5:fixedphy_probe	48	static
+fixed.c:76:5:phy_fixed_init	16	static

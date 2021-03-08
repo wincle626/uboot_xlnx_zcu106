@@ -1,0 +1,6 @@
+sf_mtd.c:71:13:spi_flash_mtd_sync	0	static
+sf_mtd.c:55:12:spi_flash_mtd_write	32	static
+sf_mtd.c:39:12:spi_flash_mtd_read	32	static
+sf_mtd.c:16:12:spi_flash_mtd_erase	32	static
+sf_mtd.c:84:5:spi_flash_mtd_register	64	static
+sf_mtd.c:125:6:spi_flash_mtd_unregister	32	static

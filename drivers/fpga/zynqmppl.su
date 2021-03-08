@@ -1,0 +1,4 @@
+zynqmppl.c:286:12:zynqmp_pcap_info	64	static
+zynqmppl.c:242:12:zynqmp_loads	80	static
+zynqmppl.c:49:12:load_word	0	static
+zynqmppl.c:196:12:zynqmp_load	256	static

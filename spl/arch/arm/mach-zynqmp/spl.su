@@ -1,0 +1,5 @@
+spl.c:17:6:board_init_f	16	static
+spl.c:56:6:spl_board_init	32	static
+spl.c:64:5:spl_boot_device	16	static
+spl.c:118:5:spl_start_uboot	16	static
+spl.c:127:5:board_fit_config_name_match	0	static

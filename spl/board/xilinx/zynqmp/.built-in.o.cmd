@@ -1,0 +1,1 @@
+cmd_spl/board/xilinx/zynqmp/built-in.o :=  aarch64-linux-gnu-ld.bfd     -r -o spl/board/xilinx/zynqmp/built-in.o spl/board/xilinx/zynqmp/zynqmp.o spl/board/xilinx/zynqmp/../common/board.o spl/board/xilinx/zynqmp/zynqmp-zcu106-revA/psu_init_gpl.o spl/board/xilinx/zynqmp/tap_delays.o 

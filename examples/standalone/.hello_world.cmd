@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := aarch64-linux-gnu-ld.bfd    -Ttext 0xc100000 -g -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o -L /usr/lib/gcc-cross/aarch64-linux-gnu/7 -lgcc
